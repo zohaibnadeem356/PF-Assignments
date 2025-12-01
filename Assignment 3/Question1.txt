@@ -1,5 +1,5 @@
 Question 1 (Part a)
-Answer: for(I=1; I>7; I++) Condition I>7 is false, So loop never run. return 7, Should return 0 for normal termination.
+Answer: End of Program.
 
 Question 1 (Part b)
 Answer: Syntax error, missing bracets of if statement.
