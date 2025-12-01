@@ -1,0 +1,11 @@
+Question 1 (Part a)
+Answer: for(I=1; I>7; I++) Condition I>7 is false, So loop never run. return 7, Should return 0 for normal termination.
+
+Question 1 (Part b)
+Answer: Syntax error, missing bracets of if statement.
+
+Question 1 (Part c)
+Answer: 1222
+
+Question 1 (Part d)
+Answer: a+b=res;  Invalid Assignment.
