@@ -1,0 +1,7 @@
+Question 2 (Part a)
+Header files:
+Files that contain declarations of functions, classes, constants, and macros, which can be included in source files using #include. They allow code reuse and separation of interface from implementation. Example: #include <iostream>.
+
+Question 3 (Part b)
+Source code:
+The human-readable instructions written in a programming language (like C++), which are compiled into machine code by a compiler. It defines the logic and behavior of a program.
