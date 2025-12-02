@@ -9,6 +9,6 @@ int main() {
     int feet = inches / 12;
     int r_inches = inches % 12;
 
-    cout<<"Height: "<<qfeetq<<" feet "<< r_inches<<" inches"<<endl;
+    cout<<"Height: "<<feet<<" feet "<< r_inches<<" inches"<<endl;
     return 0;
 }
